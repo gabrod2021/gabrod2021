@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrod2021
-- 👀 I’m interested in programation and BIG DATA with Python.
+- 👀 I’m interested in programation with Python for BIG DATA, Back End, RPA  and all in Python!
 - 🌱 I’m currently learning back end python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
