@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @gabrod2021
--     I´m ending a Bootcamp in programation Cobol, and I liked so much this language!
+- 👋 Hi, I’m @gabrod2021 and I´m ending a Bootcamp in programation Cobol, and I liked so much this language!
 - 👀 I’m interested in programation with Python for BIG DATA, Back End, IA  and all in Python!
 - 🌱 I’m currently learning back end python
 - 💞️ I’m looking to collaborate on ...
